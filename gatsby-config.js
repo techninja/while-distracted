@@ -64,4 +64,5 @@ module.exports = {
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-sharp`,
   ],
+  pathPrefix: "/while-distracted",
 };
